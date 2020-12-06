@@ -1,0 +1,7 @@
+.heyhey {
+    display: flex;
+}
+.carousel-item {
+    display: flex !important;
+    width: 100%;
+}
